@@ -1,0 +1,9 @@
+Model,AUC,PPV,NPV (recall)
+Logistic Regression,0.9999,0.9963,0.996
+Random Forest,1.0,0.9992,0.9991
+Gradient Boosting,1.0,1.0,1.0
+Support Vector Machine,0.9996,0.9855,0.9842
+K-Nearest Neighbors,0.9907,0.9798,0.9787
+Decision Tree,1.0,1.0,1.0
+XGBoost,1.0,1.0,1.0
+LightGBM,1.0,1.0,1.0
